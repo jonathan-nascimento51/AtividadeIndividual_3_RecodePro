@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+body {
+    padding-top: 76px;
+}
+.logoNav {
+    width: 50px;
+}
+
+.img {
+    width: 100%;
+}
+.white {
+    		background-color:white;
+    	}
